@@ -2,13 +2,19 @@
     <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
         <url>
     <loc>/</loc>
-    <lastmod>2022-12-02T04:45:22.258Z</lastmod>
+    <lastmod>2022-12-02T05:05:08.052Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
 <url>
     <loc>/blog/sample-blog</loc>
-    <lastmod>2022-12-02T04:45:22.258Z</lastmod>
+    <lastmod>2022-12-02T05:05:08.052Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+<url>
+    <loc>/blog/test</loc>
+    <lastmod>2022-12-02T05:05:08.052Z</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
